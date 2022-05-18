@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm Ryan Damen<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 # About me
-I'm a cecent MSc. bionformatcs graduate from The Netherlands, that specialises in working with various NGS data. My passion for software lies with playing with code to make my dreams come true.
+I'm a recent MSc. bionformatcs graduate from The Netherlands, that specialises in working with various NGS data. My passion for software lies with playing with code to make my dreams come true.
 You can reach me through
 <a href="mailto:ryan_damen@outlook.com">
   <img alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/ryandamen/ryandamen/main/img/icon_email.svg" style="position:relative; top:5px;margin:0px 3px;" />
