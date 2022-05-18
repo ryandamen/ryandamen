@@ -2,27 +2,26 @@
 
 # About me
 I'm a cecent MSc. bionformatcs graduate from The Netherlands, that specialises in working with various NGS data. My passion for software lies with playing with code to make my dreams come true.
+You can reach me through
+<a href="mailto:ryan_damen@outlook.com">
+  <img alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/ryandamen/ryandamen/main/img/icon_email.svg" style="position:relative; top:5px;margin:0px 3px;" />
+</a>
+or
+<a href="https://www.linkedin.com/in/ryandamen/">
+  <img alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/ryandamen/ryandamen/main/img/icon_linkedin.svg" style="position:relative; top:5px;margin:0px 3px;" />
+</a>
 
-<img align="right" alt="GIF" src="https://github.com/ryandamen/ryandamen/blob/main/code_play.gif?raw=true" width="400" height="300"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ryandamen/ryandamen/main/img/code_play.gif" width="400" height="300"/>
 
 ## Current activities
 - 🌱 I’m currently experimenting with the [League of legends API](https://developer.riotgames.com/)
 - 💼 Am looking for a job
 
-
-
-## Want to reach me?
-
-
-# 📅 Hobbies
+## 📅 Hobbies
 - 🍖 Cooking
-- 📺 Watch anime and Tv shows
 - 📖 Reading manga
 - 🎮 Videogames
 - 🏂 Snowboarding
-
-
-
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3B6746)
@@ -34,12 +33,9 @@ I'm a cecent MSc. bionformatcs graduate from The Netherlands, that specialises i
 ![](https://img.shields.io/badge/Editor-VSC-informational?style=flat&logo=visualstudiocode&logoColor=white&color=3B6746)
 
 
-
-
-
-
-<!-- links to social media accounts -->
-[1]: https://www.linkedin.com/in/ryandamen/
+<!-- links to reach me -->
+[linkedin]: https://www.linkedin.com/in/ryandamen/
+[email]: mailto:ryan_damen@outlook.com
 
 
 <!-- Resources -->
@@ -48,8 +44,5 @@ I'm a cecent MSc. bionformatcs graduate from The Netherlands, that specialises i
 <!-- Icons: https://simpleicons.org/ -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-
-
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
