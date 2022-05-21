@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
-</head>
-
-
 <header style="
     position: relative;font-family: 'Lato', sans-serif;
     font-size: 150%;
@@ -80,5 +73,3 @@ or
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
-
-</html>
