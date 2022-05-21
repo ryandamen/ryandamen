@@ -2,34 +2,37 @@
 
 body {
     margin: 0;
-    font-family: 'Lato', sans-serif;
-
 }
 
-title {
+header {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     letter-spacing: 2px;
-    font-size: 48px;
-}
-
-.header {
+    font-size: 10%;
     position: relative;
     text-align: center;
     background: linear-gradient(60deg, rgba(84, 58, 183, 1) 0%, rgba(0, 172, 193, 1) 100%);
     color: white;
 }
 
+/* header1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    letter-spacing: 2px;
+    font-size: 48px;
+} */
+
+
 
 .inner-header {
-    height: 65vh;
+    height: 10%;
     width: 100%;
     margin: 0;
     padding: 0;
 }
 
 .flex {
-    /*Flexbox for containers*/
+    /* Flexbox for containers */
     display: flex;
     justify-content: center;
     align-items: center;
