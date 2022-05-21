@@ -17,7 +17,7 @@ or
 
 ## Current activities
 - 🌱 I’m currently experimenting with the [League of legends API](https://developer.riotgames.com/)
-- 💼 Am looking for a job -->
+- 💼 Am looking for a job
 
 ## 📅 Hobbies
 - 🍖 Cooking
